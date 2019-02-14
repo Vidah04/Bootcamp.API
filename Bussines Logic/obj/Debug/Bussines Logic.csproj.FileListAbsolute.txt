@@ -1,0 +1,16 @@
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Bussines Logic.exe.config
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Bussines Logic.exe
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Bussines Logic.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Common.exe
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Core.exe
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\DataAccess.exe
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\EntityFramework.dll
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Common.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\Core.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\DataAccess.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\EntityFramework.xml
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\obj\Debug\Bussines Logic.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\obj\Debug\Bussines Logic.exe
+C:\Users\Anonymous\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bussines Logic\obj\Debug\Bussines Logic.pdb
